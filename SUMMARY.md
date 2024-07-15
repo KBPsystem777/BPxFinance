@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [BPxFinance](README.md)
 * [Market Analysis](market-analysis.md)
 * [Product Overview](product-overview.md)
 * [Business Model](business-model.md)
