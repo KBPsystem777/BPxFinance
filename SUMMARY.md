@@ -9,3 +9,4 @@
 * [Financial Projections](financial-projections.md)
 * [Team](team.md)
 * [Risk Analysis](risk-analysis.md)
+* [📧 Contact Us](contact-us.md)
