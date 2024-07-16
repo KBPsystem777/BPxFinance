@@ -5,8 +5,10 @@ We welcome inquiries, feedback, and opportunities for collaboration. For more in
 
 
 **Koleen Baes Paunon**\
-Founder and CEO\
-Email: **koleen.bp@outlook.com**\
-LinkedIn: [https://www.linkedin.com/in/koleenbp](https://www.linkedin.com/in/koleenbp/)
+Founder and CTO\
+✉️ **koleen.bp@outlook.com**\
+🌐 [https://www.koleenbp.com](https://www.koleenbp.com)
+
+{% embed url="https://www.linkedin.com/in/koleenbp" %}
 
 We look forward to connecting with you!

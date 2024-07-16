@@ -1,9 +1,9 @@
-# Team
+# 💻 Team
 
 ## **Management Team**
 
-* **CEO/Founder**: **Koleen Baes Paunon**, an experienced blockchain and software developer.
-* **CTO**: **Koleen Baes Paunon**, responsible for technology development and integration.
+* **CEO/Founder**: [**Koleen Baes Paunon**](https://www.linkedin.com/in/koleenbp), an experienced blockchain and software developer.
+* **CTO**: [**Koleen Baes Paunon**](https://www.linkedin.com/in/koleenbp), responsible for technology development and integration.
 * <mark style="background-color:purple;">**COO**</mark><mark style="background-color:purple;">: \[Vacant], we're looking for a passionate COO.</mark>
 * <mark style="background-color:purple;">**Marketing Lead**</mark><mark style="background-color:purple;">: \[Vacant], we're looking for a passionate Marketing Lead.</mark>
 
