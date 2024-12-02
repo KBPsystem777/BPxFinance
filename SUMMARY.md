@@ -1,9 +1,9 @@
 # Table of contents
 
-* [🐳 BPxFinance](README.md)
+* [🐳 BPx.finance](README.md)
 * [➡️ What we do](market-analysis.md)
 * [➡️ Key features](product-overview.md)
-* [➡️ Why BPX.fi?](business-model.md)
+* [➡️ Why BPx.fi?](business-model.md)
 * [🛣️ Our advantage](roadmap.md)
 * [➡️ How it works](marketing-and-sales-strategy.md)
 * [📊 Our vision](financial-projections.md)
