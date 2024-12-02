@@ -1,18 +1,3 @@
-# Financial Projections
+# 📊 Our vision
 
-## **Financial Projections**
-
-* **Year 1**:
-  * User Acquisition: 100,000 users.
-  * Revenue: PHP 10 million.
-* **Year 2**:
-  * User Growth: 500,000 users.
-  * Revenue: PHP 50 million.
-* **Year 3**:
-  * User Growth: 1 million users.
-  * Revenue: PHP 100 million.
-
-## **Funding Requirements**
-
-* Initial funding needed for development, marketing, and operations: PHP 20 million.
-* Planned funding rounds to support growth and expansion.
+We aim to make BPX.fi the cornerstone of decentralized financial services in Southeast Asia. From enabling small businesses to power their operations to making cross-border trade settlements efficient, our mission is to create a blockchain-powered financial ecosystem that benefits everyone.

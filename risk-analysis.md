@@ -1,13 +1,12 @@
-# Risk Analysis
+# 🛑 Join the revolution
 
-## **Regulatory Risks**
+**We’re building the future of decentralized finance for Filipinos—and we want you to be part of it.**\
+Whether you’re a user, liquidity provider, or investor, BPX.fi invites you to join us in creating a financial system that truly works for the people.
 
-* Compliance with evolving regulations in the Philippines and Southeast Asia.
-
-## **Market Risks**
-
-* Adoption of blockchain technology and user acceptance.
-
-## **Technical Risks**
-
-* Ensuring the security and scalability of the platform.
+* **Sign Up for Early Access**\
+  Be the first to experience BPX.fi and start earning rewards.
+* **Become a Liquidity Provider**\
+  Help us build a thriving decentralized ecosystem and earn BPX tokens.
+* **Get in Touch**
+  * Email: koleen.bp@outlook.com
+  * Telegram: @kbpsystem

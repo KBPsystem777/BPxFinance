@@ -1,20 +1,16 @@
-# Product Overview
+# ➡️ Key features
 
-## **Core Features**
 
-* **Integrated Payment Solution**: Pay bills and subscriptions using crypto, fiat, and debit cards within Telegram.
-* **TON Ecosystem**: Utilizes The Open Network Blockchain for secure, fast, and low-cost transactions.
-* **Rewards Program**: Users earn TON tokens for every transaction.
 
-## **Future Features**
-
-* **Bills Payment and Subscriptions**: Onboard utility companies and service providers for seamless bill payments.
-* **Microloans and Insurance Payments**: Expand financial services to include microloans and insurance payments.
-
-## **Technology Stack**
-
-* **TON Blockchain**: Provides a secure, transparent, and efficient transaction environment.
-* **Telegram Mini-Apps**: Utilizes Telegram’s mini-apps to create a seamless in-app experience for users.
-* **JavaScript and ReactJS**: Leveraged for front-end development to build a responsive and interactive user interface.
-* **Node.js**: Utilized for back-end development to ensure scalable and efficient server-side operations.
-* **Data Security**: Ensures end-to-end encryption and compliance with data protection regulations (GDPR, Philippine Data Privacy Act).
+* **Multi-Currency Support**\
+  Store and manage stablecoins, ERC20 tokens, and Bitcoin in one wallet.
+* **Fiat-to-Crypto Onboarding**\
+  Seamlessly convert your GCash and PayMaya credits into stablecoins or ETH.
+* **Liquidity Pools**\
+  Earn rewards in BPX tokens and stablecoins by providing liquidity in fiat, BTC, ETH, and tokens.
+* **Decentralized Payments**\
+  Enable P2P remittances, bill payments, and even sari-sari store transactions using stablecoins.
+* **ZK-Proof KYC**\
+  Compliant, privacy-preserving identity verification for added security.
+* **Smart Wallet Integration**\
+  Leveraging **Base’s Onchain Kit** and smart wallets, BPX.fi simplifies onboarding, reduces user friction, and enables **sponsored gas fees** for a seamless experience.

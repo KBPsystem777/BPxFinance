@@ -1,12 +1,9 @@
-# Business Model
+# ➡️ Why BPX.fi?
 
-## **Revenue Streams**
+#### **The Problem**
 
-* **Transaction Fees**: Earned from each crypto and fiat transaction.
-* **Partnership Fees**: Revenue from service providers and billers.
-* **Premium Features**: Additional services like expedited transactions and financial analytics.
+Millions of Filipinos remain underbanked or unbanked, locked out of global financial opportunities. Traditional mobile wallets like GCash and PayMaya are limited by centralized operations, high fees, and regional constraints. Remittances, which are critical for Filipino families, suffer from slow settlement times and unnecessary costs.
 
-## **Pricing Strategy**
+#### **Our Solution**
 
-* Competitive transaction fees to attract users while ensuring sustainability.
-* Subscription fees for premium features and services.
+BPX.fi integrates fiat payments with blockchain technology, giving users access to a decentralized ecosystem that’s affordable, transparent, and scalable. By offering liquidity pools and utilizing **Base’s cutting-edge Onchain Kit**, we empower both users and businesses to take advantage of a truly borderless financial system.
